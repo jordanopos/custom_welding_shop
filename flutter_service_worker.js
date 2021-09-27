@@ -3,12 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c233f5ff3b2c4afcccbaf2e883cb8f52",
+  "assets/AssetManifest.json": "0443b8b54cc9b5bfe76ad4b504588b21",
 "assets/assets/fonts/TitilliumWeb-Regular.ttf": "ed1d014bf2b8b72f27d6af65c69f710a",
 "assets/assets/images/Custom%2520way%2520fabrications%2520wordmark.png": "5dd219c9c0b1b567f340a56d48857049",
 "assets/assets/images/CWF-logo.png": "4bcc65fb7c3cd97e4a631c19713f8b4d",
 "assets/assets/images/Works%2520%2520_-11.jpg": "a72a035a4d8b7dd0a1519f0b12e69578",
 "assets/assets/images/Works%2520%2520_-15.jpg": "2f273079272ac4efbcc871bc05be7a8f",
+"assets/assets/images/Works%2520%2520_-19.jpg": "99b991bda34572588fe4d3facbabe67f",
 "assets/assets/images/Works%2520%2520_-2.png": "738943cf40355defa1d56d3ecceb5047",
 "assets/assets/images/Works%2520%2520_-26.jpg": "47ccf70f054551ca65f0acba98fd80dd",
 "assets/assets/images/Works%2520%2520_-28.jpg": "a67598eb0df8b2ae545f404f2815c3b8",
@@ -36,9 +37,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "73da7935b60ba806bb4aa28977ef8212",
-"/": "73da7935b60ba806bb4aa28977ef8212",
-"main.dart.js": "3470752aba01feca929214a8f052a6fd",
+"index.html": "578ffa4a6b83a5a904b870655f987a3a",
+"/": "578ffa4a6b83a5a904b870655f987a3a",
+"main.dart.js": "e8089323189c44efaa6387df32abfa6c",
 "manifest.json": "fee27154740fdb74491750925ee18bce",
 "version.json": "e528fc5742e626b02a518db82b35444a"
 };
